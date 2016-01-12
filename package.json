@@ -1,7 +1,7 @@
 {
   "name": "function-pipeline",
   "description": "Similar to the Unix `|` operator; returns a function that invokes the given series of functions whose output is subsequently passed to the next function in the series.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/function-pipeline.js/issues"
